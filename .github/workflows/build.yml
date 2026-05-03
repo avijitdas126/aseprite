@@ -114,6 +114,4 @@ jobs:
       with:
         name: aseprite-${{ matrix.os }}-${{ matrix.build_type }}
         path: |
-          build/bin/aseprite.exe
-          build/bin/aseprite
-          build/bin/aseprite.app
+          build/bin/
